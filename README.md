@@ -4,6 +4,8 @@ Geeknavi app that automatically summarizes lecture recordings and create a quiz 
 
 > The architecture involves interacting with various services such as Google  Gemini API, OpenAI/Groq API, Baseten, and Backblaze B2 to transcribe audio, generate notes, and create quiz questions.
 
+![SmartSelect_20240428_215829_Samsung_Internet](https://github.com/attrib07/Geeknavi-/assets/44226488/23d1f2e2-96a8-45c1-8f84-18be9c0ee4e1)
+
 You can check out a demo of the app [here- updating soon]) or Test out with public Link and code : [here](https://huggingface.co/spaces/Rishabh12j/AI_Powered_Teaching_Assistant).
 
 The application was tested with **Python 3.10.11**
@@ -80,6 +82,15 @@ Click the link output in the terminal by the last command - the default is http:
 
 3. View the results
 
-    Click "Sent" and wait for the results.
+    Click **Sent** and wait for the results.
 
     Processing time will depend on the length of the file - hour long lectures may take several minutes to process.
+
+## Team - Gen4
+
+Name |Discord Name with Email]
+-- | --
+Rishabh Jain | [b0rn2clutch](rishabh12j@gmail.com)
+Sai Amith Chillamcherla | [amith98](amith.ch@outlook.com)
+Aman Hanspal | [hanspaa2017108](amanhanspal05@gmail.com)
+Vicky Kumar | [resetvicky01](vickykumar07vikram@gmail.om)
