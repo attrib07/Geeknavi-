@@ -14,12 +14,12 @@ The application was tested with **Python 3.10.11**
 
 Index | *geeknavi by Gen4*
 --- | ---
--📢 | [Project overview and architecture.]
--👁️‍🗨️ | [Prerequisites]
--👩‍💻 | [Setup and installation instructions.]
--🌐 | [Run and use the Application] 
--📺 | [Future Plans : Comming Soon] 
--💬 | [Team - Gen4 Contributors of GeekNavi]
+-📢 | Project overview and architecture
+-👁️‍🗨️ | Prerequisites
+-👩‍💻 | Setup and installation instructions
+-🌐 | Run and use the Application
+-📺 | Future Plans : Comming Soon
+-💬 | Team - Gen4 Contributors of GeekNavi
 
 ## Prerequisites
 You must have:
