@@ -97,16 +97,17 @@ Click the link output in the terminal by the last command - the default is http:
 
     Processing time will depend on the length of the file - hour long lectures may take several minutes to process.
 
-## Future Plans : Comming Soon
+## Future Plans : 
 
-- Allow you to ask questions about the course material to get specific answers tailored to the lecture content. 
-- Allow you to create Diagrams of course/module (flowchat and sequences)
-- New UI for Geeknavi 
-    - Optional : Upload chat.txt 
-    - Optional : Add referance for a compehensive note
-    - Optional : Upload Ppt
-- Share on x
-
+    Comming Soon : 
+    ```bash
+    1. Allow you to ask questions about the course material to get specific answers tailored to the lecture content. 
+    2. Allow you to create Diagrams of course/module (flowchat and sequences)
+    3. New UI for Geeknavi 
+    4. Optional : Upload chat.txt and Ppt.
+    5. Optional : Add referance for a compehensive note
+    ```
+    
 ## Team - Gen4
 
 Name |Discord Name with Email]
