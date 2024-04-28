@@ -1,4 +1,4 @@
-# Geeknavi : Automatically summarize lectures and create a quiz to test your learning
+# Geeknavi : Automatically summarize lectures and quiz to test your learning.
 
 Geeknavi app that automatically summarizes lecture recordings and create a quiz to test your learning from the lecture. 
 
@@ -43,3 +43,43 @@ You must have:
     ```bash
     pip install -r requirements.txt
     ```
+    
+4. Set your All your API Key (optional)
+
+    In the ".env" file, add all your API's key, which you can copy by visiting the official pages. Here is a Format :
+    ```bash
+    GOOGLE_API_KEY = ''
+    OPENAI_API_KEY = ''
+    bucket_name = ''
+    API_key_baseten = ''
+    model_id_whisper = ""
+    application_key_id_blackblaze = ''
+    application_key_blackblaze = ''
+    ```
+
+## Run the application
+
+1. Start the app
+```bash
+gradio run app.py
+```
+
+2. Open the app
+Click the link output in the terminal by the last command - the default is http://localhost:8501/
+
+## Use the application
+
+0. To test **geeknavi**, open this [link](https://huggingface.co/spaces/Rishabh12j/AI_Powered_Teaching_Assistant) 
+
+1. Select the lecture file or youtube link.
+
+    You can use either an audio or video file, and the file can be locally stored, remotely stored (and publicly accessibly), or on YouTube.
+
+    ![Screenshot 2024-04-29 020741](https://github.com/attrib07/Geeknavi-/assets/44226488/3b212637-690b-482c-9ef6-f227ebc979fa)
+
+
+3. View the results
+
+    Click "Sent" and wait for the results.
+
+    Processing time will depend on the length of the file - hour long lectures may take several minutes to process.
