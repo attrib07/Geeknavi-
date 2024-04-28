@@ -10,6 +10,17 @@ You can check out a demo of the app [here- updating soon]) or Test out with publ
 
 The application was tested with **Python 3.10.11**
 
+## GeekNavi v0.1 by Gen4
+
+Index | *geeknavi by Gen4*
+--- | ---
+-📢 | [Project overview and architecture.]
+-👁️‍🗨️ | [Prerequisites]
+-👩‍💻 | [Setup and installation instructions.]
+-🌐 | [Run and use the Application] 
+-📺 | [Future Plans : Comming Soon] 
+-💬 | [Team - Gen4 Contributors of GeekNavi]
+
 ## Prerequisites
 You must have:
 1. [Python](https://www.python.org/) installed
@@ -19,7 +30,7 @@ You must have:
 5. An [baseten_API-Optional](https://www.baseten.co/)
 6. An [Backblaze_B2_API_KEY-Optional](https://www.backblaze.com/)
 
-## Setup
+## Setup and installation instructions :
 
 1. Clone this repository and cd into it
     ```bash
@@ -86,7 +97,7 @@ Click the link output in the terminal by the last command - the default is http:
 
     Processing time will depend on the length of the file - hour long lectures may take several minutes to process.
 
-Future Plans : Comming Soon
+## Future Plans : Comming Soon
 
 - Allow you to ask questions about the course material to get specific answers tailored to the lecture content. 
 - Allow you to create Diagrams of course/module (flowchat and sequences)
