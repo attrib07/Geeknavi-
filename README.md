@@ -2,6 +2,10 @@
 
 GeekNavi app that automatically summarizes lecture recordings and create a quiz to test your learning from the lecture. AI-Powered Teaching Assistant - This tool can take educational yotube video as input and transcribed audio of yotube video using youtube_api library and the powerful Gemini AI 1.5 use Chain of hought promt for note and quiz generation, enabling assistant to create quizzes and assessments. Also We're Testing Diagram Capabilty using PlatUML or mermaid.js
 
+Current articchecture : 
+> The architecture involves interacting with various services such as Google  Gemini API or OpenAI API, Streamlit for front end, and youtube apri libraries to transcribe audio, USing Chain of though promt to generate notes, and create quiz questions.
+
+For scalebilty of GEEKNAVI We have to shift to this artichecture : 
 > The architecture involves interacting with various services such as Google  Gemini API, OpenAI/Groq API, Baseten, and Backblaze B2 to transcribe audio, generate notes, and create quiz questions.
 
 ![Geeknavi-architecture](https://github.com/attrib07/Geeknavi-/assets/44226488/23d1f2e2-96a8-45c1-8f84-18be9c0ee4e1)
